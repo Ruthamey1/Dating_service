@@ -94,12 +94,6 @@ class Match():
                         if matches[i] == line[0:8]:
                             print(f'Okay so we have {line[9:28].strip()} they are {line[32:35].strip()} years old.')
                             print(f'They are {line[98:115].strip()}cm tall and there job is {line[120:135].strip()}')
-                            if line[164:165].strip() == '1':
-                                print(f'They occassionally take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '2':
-                                print(f'They often take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '3':
-                                print(f'They fuckin\' love taking drugs, with their favourite being {line[185:210].strip()}')
                             next = input('Would you like to talk to this person or move on to the next? \n(yes/next) \n')
                             if next == 'yes':
                                 print('omg yay!')
@@ -115,12 +109,6 @@ class Match():
                         if matches[i] == line[0:8]:
                             print(f'Okay so we have {line[9:28].strip()} they are {line[32:35].strip()} years old.')
                             print(f'They are {line[98:115].strip()}cm tall and there job is {line[120:135].strip()}')
-                            if line[164:165].strip() == '1':
-                                print(f'They occassionally take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '2':
-                                print(f'They often take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '3':
-                                print(f'They fuckin\' love taking drugs, with their favourite being {line[185:210].strip()}')
                             next = input('Would you like to talk to this person or move on to the next? \n(yes/next) \n')
                             if next == 'yes':
                                 print('omg yay!')
@@ -136,12 +124,6 @@ class Match():
                         if matches[i] == line[0:8]:
                             print(f'Okay so we have {line[9:28].strip()} they are {line[32:35].strip()} years old.')
                             print(f'They are {line[98:115].strip()}cm tall and there job is {line[120:135].strip()}')
-                            if line[164:165].strip() == '1':
-                                print(f'They occassionally take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '2':
-                                print(f'They often take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '3':
-                                print(f'They fuckin\' love taking drugs, with their favourite being {line[185:210].strip()}')
                             next = input('Would you like to talk to this person or move on to the next? \n(yes/next) \n')
                             if next == 'yes':
                                 print('omg yay!')
@@ -157,12 +139,6 @@ class Match():
                         if matches[i] == line[0:8]:
                             print(f'Okay so we have {line[9:28].strip()} they are {line[32:35].strip()} years old.')
                             print(f'They are {line[98:115].strip()}cm tall and there job is {line[120:135].strip()}')
-                            if line[164:165].strip() == '1':
-                                print(f'They occassionally take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '2':
-                                print(f'They often take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '3':
-                                print(f'They fuckin\' love taking drugs, with their favourite being {line[185:210].strip()}')
                             next = input('Would you like to talk to this person or move on to the next? \n(yes/next) \n')
                             if next == 'yes':
                                 print('omg yay!')
@@ -180,12 +156,6 @@ class Match():
                         if matches[i] == line[0:8]:
                             print(f'Okay so we have {line[9:28].strip()} they are {line[32:35].strip()} years old.')
                             print(f'They are {line[98:115].strip()}cm tall and there job is {line[120:135].strip()}')
-                            if line[164:165].strip() == '1':
-                                print(f'They occassionally take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '2':
-                                print(f'They often take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '3':
-                                print(f'They fuckin\' love taking drugs, with their favourite being {line[185:210].strip()}')
                             next = input('Would you like to talk to this person or move on to the next? \n(yes/next) \n')
                             if next == 'yes':
                                 print('omg yay!')
@@ -205,12 +175,6 @@ class Match():
                         if matches[i] == line[0:8]:
                             print(f'Okay so we have {line[9:28].strip()} they are {line[32:35].strip()} years old.')
                             print(f'They are {line[98:115].strip()}cm tall and there job is {line[120:135].strip()}')
-                            if line[164:165].strip() == '1':
-                                print(f'They occassionally take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '2':
-                                print(f'They often take drugs, with their favourite being {line[185:210].strip()}')
-                            elif line[164:165].strip() == '3':
-                                print(f'They fuckin\' love taking drugs, with their favourite being {line[185:210].strip()}')
                             next = input('Would you like to talk to this person or move on to the next? \n(yes/next) \n')
                             if next == 'yes':
                                 print('omg yay!')
